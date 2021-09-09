@@ -1,4 +1,4 @@
 module.exports = ({ env }) => ({
-    url: env('postgres://pupiceyfzhvbuc:27a1fbc8eb5fff3f557c8bb1b42b88e99d794e5765facc30cfbf1339a49dccf0@ec2-52-7-159-155.compute-1.amazonaws.com:5432/d338c93nnb5vm2'),
+    url: env('postgres://hmxskhqcotkyhv:eafc2cafe139a81c8e21f2b9cd7ede68de77f3361f4a5969dd5a0389ab1386c5@ec2-3-225-204-194.compute-1.amazonaws.com:5432/d3n456v7kghh85'),
   });
   
